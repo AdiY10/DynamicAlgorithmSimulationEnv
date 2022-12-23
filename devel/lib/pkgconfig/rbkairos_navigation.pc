@@ -1,0 +1,8 @@
+prefix=/home/adi/Downloads/GazeboSimulation/devel
+
+Name: rbkairos_navigation
+Description: Description of rbkairos_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/gazebo_msgs_new_generate_messages_lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/msg/ODEPhysics.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/msg/ContactsState.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/msg/ODEJointProperties.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/msg/LinkState.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/msg/WorldState.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/msg/LinkStates.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/msg/ContactState.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/msg/ModelStates.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/msg/ModelState.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/SetJointTrajectory.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/SetLightProperties.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/GetModelState.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/GetLightProperties.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/SetJointProperties.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/GetLinkState.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/SetLinkState.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/ApplyBodyWrench.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/SpawnModel.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/GetLinkProperties.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/GetModelProperties.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/GetWorldProperties.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/BodyRequest.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/JointRequest.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/GetPhysicsProperties.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/SetLinkProperties.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/DeleteModel.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/SetModelState.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/ApplyJointEffort.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/GetJointProperties.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/DeleteLight.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/SetModelConfiguration.lisp"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/common-lisp/ros/gazebo_msgs_new/srv/SetPhysicsProperties.lisp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/gazebo_msgs_new_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

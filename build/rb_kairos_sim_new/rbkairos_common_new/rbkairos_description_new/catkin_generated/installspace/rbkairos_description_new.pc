@@ -1,0 +1,8 @@
+prefix=/home/adi/Downloads/GazeboSimulation/install
+
+Name: rbkairos_description_new
+Description: Description of rbkairos_description_new
+Version: 1.1.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: urdf xacro

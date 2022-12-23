@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+    <include file="$(find rbkairos_navigation)/launch/map_server.launch"/>
+    <include file="$(find rbkairos_navigation)/launch/amcl.launch"/>
+    <include file="$(find rbkairos_navigation)/launch/move_base.launch"/>
+    <node pkg="rviz" name="rviz" type="rviz" args="-d $(find rbkairos_navigation)/rviz/navigation.rviz"/>
+</launch>

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adi/Downloads/GazeboSimulation/src/rb_kairos_sim_new/universal_robot_new/ur_kinematics_new/include/ur_kinematics/ikfast.h
+vector
+-
+list
+-
+stdexcept
+-
+
+/home/adi/Downloads/GazeboSimulation/src/rb_kairos_sim_new/universal_robot_new/ur_kinematics_new/include/ur_kinematics/ur_kin.h
+
+/home/adi/Downloads/GazeboSimulation/src/rb_kairos_sim_new/universal_robot_new/ur_kinematics_new/src/ur_kin.cpp
+ur_kinematics/ur_kin.h
+-
+math.h
+-
+stdio.h
+-
+ur_kinematics/ikfast.h
+-
+

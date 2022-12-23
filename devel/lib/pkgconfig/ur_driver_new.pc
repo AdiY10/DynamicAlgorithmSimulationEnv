@@ -1,0 +1,8 @@
+prefix=/home/adi/Downloads/GazeboSimulation/devel
+
+Name: ur_driver_new
+Description: Description of ur_driver_new
+Version: 1.2.7
+Cflags: -I/home/adi/Downloads/GazeboSimulation/devel/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure

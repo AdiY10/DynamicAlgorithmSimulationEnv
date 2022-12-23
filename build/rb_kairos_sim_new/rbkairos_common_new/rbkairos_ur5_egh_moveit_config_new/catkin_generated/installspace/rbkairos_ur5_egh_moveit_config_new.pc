@@ -1,0 +1,8 @@
+prefix=/home/adi/Downloads/GazeboSimulation/install
+
+Name: rbkairos_ur5_egh_moveit_config_new
+Description: Description of rbkairos_ur5_egh_moveit_config_new
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

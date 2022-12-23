@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/gazebo_msgs_new_generate_messages_nodejs"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/msg/ODEPhysics.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/msg/ContactsState.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/msg/ODEJointProperties.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/msg/LinkState.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/msg/WorldState.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/msg/LinkStates.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/msg/ContactState.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/msg/ModelStates.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/msg/ModelState.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/SetJointTrajectory.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/SetLightProperties.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/GetModelState.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/GetLightProperties.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/SetJointProperties.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/GetLinkState.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/SetLinkState.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/ApplyBodyWrench.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/SpawnModel.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/GetLinkProperties.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/GetModelProperties.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/GetWorldProperties.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/BodyRequest.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/JointRequest.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/GetPhysicsProperties.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/SetLinkProperties.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/DeleteModel.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/SetModelState.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/ApplyJointEffort.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/GetJointProperties.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/DeleteLight.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/SetModelConfiguration.js"
+  "/home/adi/Downloads/GazeboSimulation/devel/share/gennodejs/ros/gazebo_msgs_new/srv/SetPhysicsProperties.js"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/gazebo_msgs_new_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

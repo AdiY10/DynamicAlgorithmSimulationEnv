@@ -1,0 +1,8 @@
+prefix=/home/adi/Downloads/GazeboSimulation/install
+
+Name: robotnik_sensors_new
+Description: Description of robotnik_sensors_new
+Version: 1.1.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

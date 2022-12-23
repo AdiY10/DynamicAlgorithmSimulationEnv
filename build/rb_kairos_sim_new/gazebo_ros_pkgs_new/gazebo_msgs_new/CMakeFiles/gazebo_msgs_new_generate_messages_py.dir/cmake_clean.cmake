@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/gazebo_msgs_new_generate_messages_py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/msg/_ODEPhysics.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/msg/_ContactsState.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/msg/_ODEJointProperties.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/msg/_LinkState.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/msg/_WorldState.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/msg/_LinkStates.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/msg/_ContactState.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/msg/_ModelStates.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/msg/_ModelState.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_SetJointTrajectory.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_SetLightProperties.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_GetModelState.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_GetLightProperties.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_SetJointProperties.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_GetLinkState.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_SetLinkState.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_ApplyBodyWrench.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_SpawnModel.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_GetLinkProperties.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_GetModelProperties.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_GetWorldProperties.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_BodyRequest.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_JointRequest.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_GetPhysicsProperties.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_SetLinkProperties.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_DeleteModel.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_SetModelState.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_ApplyJointEffort.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_GetJointProperties.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_DeleteLight.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_SetModelConfiguration.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/_SetPhysicsProperties.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/msg/__init__.py"
+  "/home/adi/Downloads/GazeboSimulation/devel/lib/python2.7/dist-packages/gazebo_msgs_new/srv/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/gazebo_msgs_new_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

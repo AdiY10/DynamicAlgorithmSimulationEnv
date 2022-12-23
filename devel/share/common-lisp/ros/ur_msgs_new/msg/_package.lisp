@@ -1,0 +1,19 @@
+(cl:defpackage ur_msgs_new-msg
+  (:use )
+  (:export
+   "<ANALOG>"
+   "ANALOG"
+   "<DIGITAL>"
+   "DIGITAL"
+   "<IOSTATES>"
+   "IOSTATES"
+   "<MASTERBOARDDATAMSG>"
+   "MASTERBOARDDATAMSG"
+   "<ROBOTMODEDATAMSG>"
+   "ROBOTMODEDATAMSG"
+   "<ROBOTSTATERTMSG>"
+   "ROBOTSTATERTMSG"
+   "<TOOLDATAMSG>"
+   "TOOLDATAMSG"
+  ))
+

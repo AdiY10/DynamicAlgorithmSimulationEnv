@@ -1,0 +1,8 @@
+prefix=/home/adi/Downloads/GazeboSimulation/install
+
+Name: rbkairos_sim_bringup_new
+Description: Description of rbkairos_sim_bringup_new
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

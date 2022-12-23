@@ -1,0 +1,8 @@
+prefix=/home/adi/Downloads/GazeboSimulation/devel
+
+Name: ur_gazebo_new
+Description: Description of ur_gazebo_new
+Version: 1.2.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

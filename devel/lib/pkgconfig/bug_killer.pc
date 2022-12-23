@@ -1,0 +1,8 @@
+prefix=/home/adi/Downloads/GazeboSimulation/devel
+
+Name: bug_killer
+Description: Description of bug_killer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/adi/Downloads/GazeboSimulation/install
+
+Name: ur_kinematics_new
+Description: Description of ur_kinematics_new
+Version: 1.2.7
+Cflags: -I${prefix}/include -I/usr/include
+Libs: -L${prefix}/lib -lur3_kin_new -lur5_kin_new -lur10_kin_new -lur3_moveit_plugin_new -lur5_moveit_plugin_new -lur10_moveit_plugin_new /usr/lib/x86_64-linux-gnu/libboost_system.so
+Requires: roscpp geometry_msgs moveit_core moveit_kinematics moveit_ros_planning pluginlib tf_conversions

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<launch>
+	<node pkg="map_server" name="map_server" type="map_server" args="$(find rbkairos_navigation)/map/map.yaml"/>
+
+</launch>
